@@ -1,0 +1,13 @@
+## Interface: 30300
+## Title: MoossaMedia Media Package
+## Author: Moossacre
+## Notes: Various media
+## Version: 0.8
+
+## X-Category: Media
+## OptionalDeps: LibSharedMedia-3.0
+
+## LoadManagers: AddonLoader
+## X-LoadOn-Always: true
+
+main.lua
